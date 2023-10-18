@@ -1,0 +1,24 @@
+C:\Users\irsya\source\repos\Media capture\Media capture\bin\Debug\net6.0-windows\Media capture.exe
+C:\Users\irsya\source\repos\Media capture\Media capture\bin\Debug\net6.0-windows\Media capture.deps.json
+C:\Users\irsya\source\repos\Media capture\Media capture\bin\Debug\net6.0-windows\Media capture.runtimeconfig.json
+C:\Users\irsya\source\repos\Media capture\Media capture\bin\Debug\net6.0-windows\Media capture.dll
+C:\Users\irsya\source\repos\Media capture\Media capture\bin\Debug\net6.0-windows\Media capture.pdb
+C:\Users\irsya\source\repos\Media capture\Media capture\obj\Debug\net6.0-windows\Media_capture.Form1.resources
+C:\Users\irsya\source\repos\Media capture\Media capture\obj\Debug\net6.0-windows\Media capture.csproj.GenerateResource.cache
+C:\Users\irsya\source\repos\Media capture\Media capture\obj\Debug\net6.0-windows\Media capture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irsya\source\repos\Media capture\Media capture\obj\Debug\net6.0-windows\Media capture.AssemblyInfoInputs.cache
+C:\Users\irsya\source\repos\Media capture\Media capture\obj\Debug\net6.0-windows\Media capture.AssemblyInfo.cs
+C:\Users\irsya\source\repos\Media capture\Media capture\obj\Debug\net6.0-windows\Media capture.csproj.CoreCompileInputs.cache
+C:\Users\irsya\source\repos\Media capture\Media capture\obj\Debug\net6.0-windows\Media capture.dll
+C:\Users\irsya\source\repos\Media capture\Media capture\obj\Debug\net6.0-windows\refint\Media capture.dll
+C:\Users\irsya\source\repos\Media capture\Media capture\obj\Debug\net6.0-windows\Media capture.pdb
+C:\Users\irsya\source\repos\Media capture\Media capture\obj\Debug\net6.0-windows\Media capture.genruntimeconfig.cache
+C:\Users\irsya\source\repos\Media capture\Media capture\obj\Debug\net6.0-windows\ref\Media capture.dll
+C:\Users\irsya\source\repos\Media capture\Media capture\obj\Debug\net6.0-windows\Media capture.csproj.AssemblyReference.cache
+C:\Users\irsya\source\repos\Media capture\Media capture\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\irsya\source\repos\Media capture\Media capture\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\irsya\source\repos\Media capture\Media capture\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\irsya\source\repos\Media capture\Media capture\bin\Debug\net6.0-windows\AForge.xml
+C:\Users\irsya\source\repos\Media capture\Media capture\bin\Debug\net6.0-windows\AForge.Video.xml
+C:\Users\irsya\source\repos\Media capture\Media capture\bin\Debug\net6.0-windows\AForge.Video.DirectShow.xml
+C:\Users\irsya\source\repos\Media capture\Media capture\obj\Debug\net6.0-windows\Media capture.csproj.CopyComplete
